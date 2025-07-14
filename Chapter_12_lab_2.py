@@ -1,3 +1,4 @@
+#My name is Jacob Baker and this is Chapter 12 Lab 2 being revised on July 14
 import os
 
 def get_filename():
